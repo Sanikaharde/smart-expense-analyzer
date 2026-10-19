@@ -1,0 +1,8 @@
+pandas
+streamlit
+plotly
+scikit-learn
+mysql-connector-python
+requests
+python-dotenv
+``
