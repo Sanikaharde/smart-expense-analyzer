@@ -94,7 +94,10 @@ Natural Language to SQL
 Fraud Prediction Models
 Budget Recommendations
 Expense Forecasting
-👩‍💻 Author
-Sanika Harde
 
-Built as a FinTech Analytics and M
+![alt text](Screenshots/dashboard1.png)
+![alt text](Screenshots/dashboard2.png)
+![alt text](Screenshots/dashboard3.png)
+![alt text](Screenshots/dashboard4.png)
+![alt text](Screenshots/dashboard5.png)
+![alt text](Screenshots/Dashboard6.png)
